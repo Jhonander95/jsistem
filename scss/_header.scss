@@ -1,0 +1,10 @@
+.header{
+	width: 80%;
+	background-color: $color-principal;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	&__logo {
+		color: white;
+	}
+}
+

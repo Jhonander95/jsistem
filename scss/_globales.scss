@@ -1,0 +1,11 @@
+$font-family: 'Asap', sans-serif;
+$color-principal: #3ede3d;
+
+
+body{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  font-family: $font-family; 
+}

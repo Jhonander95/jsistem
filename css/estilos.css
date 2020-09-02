@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Asap", sans-serif;
+}
+
+.header {
+  width: 80%;
+  background-color: #3ede3d;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.header__logo {
+  color: white;
+}
